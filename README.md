@@ -1,4 +1,4 @@
-# A Simple Approach of Chinese Poetry Generation Using Pre-trained LLM
+# A Simple Approach of Chinese Poetry Generation Using Pre-trained LLMs
 
 ## Overview
 This project is based on a research paper and aims to generate ancient Chinese poems using pre-trained language models (LLMs). Leveraging the power of advanced neural networks, the project provides a straightforward approach to creating poetic compositions in Chinese.
