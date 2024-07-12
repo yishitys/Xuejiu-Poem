@@ -11,10 +11,10 @@ This project is based on a research paper and aims to generate ancient Chinese p
 
 ## Models
 We mainly trained the following models:
-- **Qwen1.5-1.8B-Chat**
-- **Qwen1.5-14B-Chat**
+- [**Qwen1.5-1.8B-Chat**](https://huggingface.co/Qwen/Qwen1.5-14B-Chat)
+- [**Qwen1.5-14B-Chat**](https://huggingface.co/Qwen/Qwen1.5-14B-Chat)
 
-(Training based on [llama-factory](https://github.com/hiyouga/LLaMA-Factory))
+(Training based on [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory))
 
 ## Installation
 To install and run the project locally, follow these steps:
